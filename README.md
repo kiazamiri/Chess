@@ -41,3 +41,7 @@ The score for hitting each piece is noted below:
 
 The score of the winner team will be printed at the end of the game and you can see the 
 highscores of all the games in the first menu.
+### Bugs
+In the future, I'll try to fix the minor bugs that the code has and will post updates for it here.
+
+**Thank You for your attention.**
