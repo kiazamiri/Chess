@@ -1,7 +1,7 @@
 # Chess
 This repository includes the C code for the game chess.
 ## Discriptions
-Before excuting the code,since this code was written awile ago, if you are using Visual Studio you have to follow the instruction below 
+Before executing the code,since this code was written awile ago, if you are using Visual Studio you have to follow the instruction below 
 in order for the code to work (It will give errors for fopen and other functions that have been edited through the years.)
 
 Under "Project -> Properties -> C/C++ -> Preprocessor -> Preprocessor Definitions" add " ;_CRT_SECURE_NO_WARNINGS"
