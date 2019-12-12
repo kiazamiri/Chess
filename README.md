@@ -1,5 +1,5 @@
 # Chess
-This repository includes the C code for the game chess.
+This repository includes the C code for the game chess, you can get the code from [here](https://github.com/kiazamiri/Chess/tree/master/Chess) but please read the discriptions first.
 ## Discriptions
 Before executing the code,since this code was written awile ago, if you are using Visual Studio you have to follow the instruction below 
 in order for the code to work (It will give errors for fopen and other functions that have been edited through the years.)
